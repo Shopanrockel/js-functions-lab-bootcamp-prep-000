@@ -7,6 +7,6 @@ function happyHolidaysTo(Skip) {
 
   return `Happy holidays, ${Skip}!`
   }
-function happyHolidayTo(Pizza Day, Skip) {
+function happyHolidayTo(holiday, name) {
   return `Happy ${Pizza Day}, ${Skip}!`
 }
