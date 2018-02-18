@@ -4,7 +4,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(Skip) {
-name = "Skip";
 
   return `Happy holidays, ${Skip}!`
   }
