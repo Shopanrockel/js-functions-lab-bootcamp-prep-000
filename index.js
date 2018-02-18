@@ -11,3 +11,7 @@ function happyHolidaysTo(Skip) {
 function happyHolidayTo(Christmas, Skip) {
   return `Happy ${Christmas}, ${Skip}!`
 }
+
+function holidayCountdown(Christmas, days) {
+  return `It's ${days} days until ${Christmas}`
+}
