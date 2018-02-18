@@ -6,6 +6,6 @@ function happyHolidays() {
 function happyHolidaysTo(name, holiday) {
 name = "you"
 holiday = "holidays"
-  return `Happy ${Pizza Day}, ${Skip}!`
+  return `Happy ${holidays}, ${name}!`
   }
   
