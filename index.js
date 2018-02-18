@@ -9,5 +9,5 @@ function happyHolidaysTo(Skip) {
   }
   
 function happyHolidaysTo(Monday, Skip) {
-  return `Happy ${Day}, ${Skip}!`
+  return `Happy ${Monday}, ${Skip}!`
 }
