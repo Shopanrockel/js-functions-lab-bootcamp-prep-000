@@ -8,6 +8,3 @@ function happyHolidaysTo(Skip) {
   return `Happy holidays, ${Skip}!`
   }
   
-function happyHolidaysTo(Monday, Skip) {
-  return `Happy ${Monday}, ${Skip}!`
-}
