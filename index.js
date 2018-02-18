@@ -7,3 +7,7 @@ function happyHolidaysTo(Skip) {
 
   return `Happy holidays, ${Skip}!`
   }
+  
+function happyHolidayTo(Christmas, Skip) {
+  return `Happy ${Christmas}, ${Skip}!`
+}
